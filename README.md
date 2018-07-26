@@ -1,6 +1,6 @@
 # Earthquake JSON Parser
 
-##General
+## General
 - Retrieves a JSON from the USGS (US Geological Survey) publishes various earthquake data as JSON feed. 
 Past weeks earthquakes:
 https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson
